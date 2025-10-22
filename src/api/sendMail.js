@@ -16,7 +16,7 @@ const transporter = nodemailer.createTransport({
 // Configure the mailoptions object
 const mailOptions = {
   // from: 'sujin.seo.200@gmail.com',
-  to: 'momoxx505@gmail.com',
+  to: 'info@senacustoms.com',
   subject: 'Email from SENA WEB by Client Named :',
   text: '문의'
 };
